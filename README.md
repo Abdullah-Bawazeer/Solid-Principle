@@ -44,13 +44,6 @@ This solution includes practical implementations of:
 
 ---
 
-## 💻 Technologies Used
-- C#  
-- .NET Framework  
-- Windows Forms (for some examples)  
-- SQL Server (in data-related cases)  
-
----
 
 ## 🎯 Project Purpose
 - Strengthen understanding of **SOLID principles** through **hands-on examples**, not just theory.  
